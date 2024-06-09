@@ -7,3 +7,5 @@ Le dossier CTP contient le contrôle TP qui prend pour base les livrables.
 pour accéder aux contenus des livrables, il faut:  
   * télécharger l'archive du repository  
   * décompresser les livrables   
+
+le contenu final de chaque livrable se trouve dans leur dossier output.
